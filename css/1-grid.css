@@ -1,0 +1,10 @@
+.myrows{
+    border: 3px solid blue;
+    padding: 5px;
+}
+.mycol{
+    border: 3px solid red;
+}
+.myclass{
+    background-color: greenyellow;
+}
